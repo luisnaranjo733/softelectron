@@ -25,7 +25,9 @@
     "electron"
   ],
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "electron-debug": "^1.0.0",
+    "jquery": "^3.2.1",
     "nedb": "^1.8.0",
     "rx": "^4.1.0"
   },
