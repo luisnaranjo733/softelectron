@@ -26,6 +26,7 @@
   ],
   "dependencies": {
     "electron-debug": "^1.0.0",
+    "nedb": "^1.8.0",
     "rx": "^4.1.0"
   },
   "devDependencies": {
